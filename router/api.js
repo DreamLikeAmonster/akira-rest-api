@@ -769,7 +769,7 @@ router.get('/downloader/imgur', async (req, res, next) => {
     console.log(err);
     res.json(msg.error);
   }
-});*/
+});
 //[===] END DOWNLOADER [===]//
 
 //[=== START INFO ===]//
