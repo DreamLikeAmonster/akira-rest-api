@@ -13,11 +13,11 @@
 <a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LoliKillers/Apriliya-Api?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LoliKillers/Apriliya-Api" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/LoliKillers/Apriliya-Api?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/DreamLikeAmonster/akira-rest-api </a>
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/DreamLikeAmonster/akira-rest-api?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
-<a href="" alt="LoliKillers"> <img src="https://img.shields.io/badge/built%20by-LoliKillers-blue" /> </a>
+<a href="" alt="akira"> <img src="https://img.shields.io/badge/built%20by-Vanessa-blue" /> </a>
 <a href="https://github.com/LoliKillers/Apriliya-Api/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
 </p>
