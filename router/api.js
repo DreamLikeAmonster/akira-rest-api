@@ -170,7 +170,7 @@ msg = {
 };
 
 //[===] START ISLAMI FITUR [===]//
-/*router.get('/islami/list-surah', async (req, res, next) => {
+router.get('/islami/list-surah', async (req, res, next) => {
   try {
     const apikey = req.query.apikey;
     if (apikey === undefined) return res.json(msg.noApikey);
@@ -483,7 +483,6 @@ router.get('/downloader/youtube_play_mp4', async (req, res, next) => {
     res.json(msg.error);
   }
 });
-/*
 router.get('/downloader/cocofun', async (req, res, next) => {
   try {
     const apikey = req.query.apikey;
