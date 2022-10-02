@@ -1,92 +1,107 @@
+<p align="center">
 
-![APRILIYA-API](https://telegra.ph/file/c793578cfabf67d292dd0.png)
-# APRILIYA - API's
-<p align="center">
-<a href="https://github.com/LoliKillers/Apriliya-Api/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/LoliKillers/Apriliya-Api?style=flat&logo=github&color=yellow" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LoliKillers/Apriliya-Api" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/LoliKillers/Apriliya-Api" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LoliKillers/Apriliya-Api?style=flat&logo=github" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LoliKillers/Apriliya-Api?color=success" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LoliKillers/Apriliya-Api?style=flat&logo=github&color=red" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LoliKillers/Apriliya-Api?style=flat&logo=github&color=success" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/DreamLikeAmonster/akira-rest-api" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/DreamLikeAmonster/akira-rest-api </a>
-<a href="https://github.com/DreamLikeAmonster/akira-rest-api/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/DreamLikeAmonster/akira-rest-api?style=flat&logo=github&color=success" /> </a>
-</p>
-<p align="center">
-<a href="" alt="akira"> <img src="https://img.shields.io/badge/built%20by-Vanessa-blue" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
+<img src="https://avatars.githubusercontent.com/DreamLikeAmonster" width="200" height="200"/>
+
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/994be5af506efd008b9ac5aa95c76a4472798a25.svg "Repobeats analytics image")
+<p align="center">
 
-### Required
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+akira+Rest+Api+" alt="">
 
-Sebelum melakukan apapun silahkan dapatkan
-* [Mongo DB URI](https://www.mongodb.com)
+</p>
 
-Tanpa mongodb web API tidak akan berjalan
+<p align="center">
 
-buat file .env terlebih dahulu
-```shell
-mv example.env .env
-```
-letakkan semua itu di file .env
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DreamLikeAmonster-red.svg?style=for-the-badge&logo=github"></a>
 
-```javascript
-DB_URI = '' //URI Database mongodb bisa kalian dapatkan di https://www.mogodb.com
-LIMIT_PREMIUM =  ''//Limit pengguna gratisan
-LIMIT_USER = '' //Limit pengguna premium
-CODER_NAME = '' //Entahlah mau di ganti apa tidak
-KEY = '' //Kata kunci untuk menambahkan pengguna premium
-```
+</p>
 
-## Linux
+<p align="center">
 
-```shell
-apt update -y
-apt upgrade -y
-apt install nodejs -y
-apt install npm -y
-apt install git -y
-```
+<a href="https://github.com/DreamLikeAmonster?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/DreamLikeAmonster?color=green&style=flat-square"></a>
 
-### Runing in localhost
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DreamLikeAmonster/akira-rest-api?color=white&style=flat-square"></a>
 
-```shell
-npm install --global nodemon
-git clone https://github.com/LoliKillers/Apriliya-Api
-cd Apriliya-Api
-npm install
-npm start
-```
-Open : [http://localhost:8080](http://localhost:8080)
-### Deploy in heroku
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DreamLikeAmonster/akira-rest-api?color=yellow&style=flat-square"></a>
 
-```shell
-npm install --global heroku
-heroku login
-git clone https://github.com/LoliKillers/Apriliya-Api
-cd Apriliya-Api
-hroku git:remote -a YOUR_APP_NAME_IN_HEROKU
-git add .
-git commit -m "Make It Butter"
-git push heroku master
-```
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DreamLikeAmonster/akira-rest-api?label=Watchers&color=red&style=flat-square"></a>
 
-#### Or
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LoliKillers/Apriliya-Api)
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api/"><img title="Size" src="https://img.shields.io/github/repo-size/DreamLikeAmonster/akira-rest-api?style=flat-square&color=darkred"></a>
 
-Open : [https://APP_NAME.herokuapp.com](https://APP_NAME.herokuapp.com)
-Demo : [https://april-api.herokuapp.com](https://april-api.herokuapp.com)
-## What is next?
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDreamLikeAmonster%2Fakira-rest-api%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 
-* Jika masih bingung silahkan tanyakan kepada saya di [WhatsApp](https://chat.whatsapp.com/EH9g1SKf588HXEFY51zQMu)
-* Menemukan error? silahkan tarik permintaan, atau bisa beritahu saya di [WhatsApp](https://chat.whatsapp.com/EH9g1SKf588HXEFY51zQMu)
-* Request? silahkan hubungi saya di [WhatsApp](https://chat.whatsapp.com/EH9g1SKf588HXEFY51zQMu)
-* [lolkil-scraper](https://npmjs.com/package/lolkil-scraper)
+<a href="https://github.com/DreamLikeAmonster/akira-rest-api/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+
+</p>
+
+* ## TUTORIAL 📌
+
+Forks Github Ini
+
+ [`Klik Sini Untuk Fork Project`](https://github.com/DreamLikeAmonster/akira-rest-api/fork)<br>
+
+DEPLOY TO HEROKU
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/)
+
+CONNECT HEROKU TO GITHUB DAN
+
+CONNECT PROJECTS GITHUB YANG KALIAN FORK TADI
+
+LALU TEKAN
+
+Deploy
+
+* # ``Cara On 24 Jam``
+
+[`Klik Sini`](https://kaffeine.herokuapp.com)<br>
+
+add website kamu
+
+* ## SETTING ⚙️
+
+File Setting ``routers``
+
+* ## FEATURE LIST 💡
+
+| FEATURE |🌱|
+
+| ------------- | ------------- |
+
+| Dowloader |✔️|
+
+| Text Pro  |✔️|
+
+| Photooxy  |✔️|
+
+| Sound Of Text  |✔️|
+
+| Search  |✔️|
+
+| Random Gambar  |✔️|
+
+| Game  |✔️|
+
+| Maker |✔️|
+
+| Link Short  |✔️|
+
+| Information |✔️|
+
+| Emoji  |✔️|
+
+| Tools  |✔️|
+
+| Islamic  |✔️|
+
+<img src="https://telegra.ph/file/b0f50940765feb2cabc9a.jpg" width="814" height="1166">
+
+``Rest API``
+
+## ``Credit 💳 Script``
+
+<img src="https://avatars.githubusercontent.com/DreamLikeAmonster" width="200" height="200">
+
+[`akira`](https://github.com/DreamLikeAmonster)<br>
