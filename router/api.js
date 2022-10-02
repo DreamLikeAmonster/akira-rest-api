@@ -197,8 +197,8 @@ router.get('/islami/list-surah', async (req, res, next) => {
     console.log(err);
     res.json(msg.error);
   }
-});*/
-/*router.get('/islami/surah', async (req, res, next) => {
+});
+router.get('/islami/surah', async (req, res, next) => {
   try {
     const apikey = req.query.apikey;
     const number = req.query.number;
@@ -228,7 +228,7 @@ router.get('/islami/list-surah', async (req, res, next) => {
     console.log(err);
     res.json(msg.error);
   }
-});*/
+});
 //[===] END ISLAMI FITUR [===]//
 
 //[===] START IMAGE FITUR [===]//
